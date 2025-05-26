@@ -18,7 +18,7 @@ MySQL database integration
 
 Stores username and score
 
-Expandable question bank (optional)
+
 
 
 
